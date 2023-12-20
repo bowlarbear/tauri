@@ -4014,7 +4014,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-bundler"
-version = "2.0.0-alpha.13"
+version = "2.0.0-alpha.14"
 dependencies = [
  "anyhow",
  "ar",
@@ -4041,7 +4041,7 @@ dependencies = [
  "strsim",
  "tar",
  "tauri-icns",
- "tauri-utils 2.0.0-alpha.12",
+ "tauri-utils 2.0.0-alpha.13",
  "tempfile",
  "thiserror",
  "time",
@@ -4055,7 +4055,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-cli"
-version = "2.0.0-alpha.20"
+version = "2.0.0-alpha.21"
 dependencies = [
  "anyhow",
  "axum",
@@ -4105,7 +4105,7 @@ dependencies = [
  "tauri-bundler",
  "tauri-icns",
  "tauri-utils 1.5.0",
- "tauri-utils 2.0.0-alpha.12",
+ "tauri-utils 2.0.0-alpha.13",
  "thiserror",
  "tokio",
  "toml 0.8.8",
@@ -4171,7 +4171,7 @@ dependencies = [
 
 [[package]]
 name = "tauri-utils"
-version = "2.0.0-alpha.12"
+version = "2.0.0-alpha.13"
 dependencies = [
  "aes-gcm",
  "ctor 0.2.5",
